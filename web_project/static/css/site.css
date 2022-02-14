@@ -36,5 +36,8 @@ ul p {
 
 .grid-elements a {
     text-decoration: none;
+}
 
+.grid-elements:hover {
+    background-color: rgba(138, 43, 226, 0.2);
 }
