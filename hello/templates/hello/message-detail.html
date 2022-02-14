@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{ msg.id }}
+{% endblock title %}
+
+{% block content %}
+
+    <h2>{{ msg.username|title }}</h2>
+    <p>{{ msg.message }}</p>
+
+{% endblock content %}

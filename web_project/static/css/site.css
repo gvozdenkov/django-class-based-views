@@ -1,0 +1,40 @@
+body {
+    margin: 30px;
+}
+
+.message {
+    font-weight: 600;
+    color: blue;
+}
+
+.form-control{
+    margin: 1rem;
+}
+
+.form-control input{
+    display: block;
+}
+
+.form-control label {
+    display: block;
+}
+
+ul {
+    list-style: none;
+    font-family: monospace;
+}
+
+ul h2 {
+    font-family: Verdana, sans-serif;
+    font-size: 1.5rem;
+    color: blueviolet;
+}
+
+ul p {
+    font-size: 150%;
+}
+
+.grid-elements a {
+    text-decoration: none;
+
+}
